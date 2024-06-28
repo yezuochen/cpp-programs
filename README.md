@@ -1,5 +1,6 @@
 # Introduction to the C++ Programming Language
 
 **Programs**
-- calculator
-- operator
+
+1. **calculator.cpp**
+2. **operator.cpp**: ternary operator, logical operator
