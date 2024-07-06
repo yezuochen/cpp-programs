@@ -17,8 +17,14 @@
 13. **fill**: `fill` function, fill an array with user input
 14. **2darray**: multidimentional arrays
 15. **quizgame**: QUIZ GAME
-16. **memory**: memory addresses, pass by VALUE vs. pass by REFERENCE, const parameters
+16. **memory**: memory addresses, pass by VALUE vs. pass by REFERENCE, `const` parameters
 17. **creditcard**: credit card validator program
 18. **pointers**: pointers, null pointers `nullptr`
 19. **tictactoe**: TIC TAC TOE game
 20. **dynamic**: dynamic memory
+21. **recursion**: recursion
+22. **struct**: function templates, `struct`, pass sturcts as arguments, `enum`
+23. **oop**: object oriented programming
+24. **constructor**: constructors, constructor overloading
+25. **getter**: getters & setters
+26. **inheritance**: inheritance
